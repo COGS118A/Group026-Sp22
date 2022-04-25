@@ -1,4 +1,5 @@
 # COGS118A Project template
+Member: Yufei Deng
 This is your group repo for your final project for COGS118A
 
 This repository is publicly visible! We will be using that feature to do peer review of projects.
